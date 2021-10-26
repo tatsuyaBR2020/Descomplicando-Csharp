@@ -3,4 +3,11 @@
 
 > :warning: Status do projeto: em desenvolvimento
 
-- [Google](https://google.com)
+[Google](https://google.com)
+
+```csharp
+    if(playerLife > enemyLife)
+    {
+        Debug.Log("A vida do player é maior do que a do inimigo!");
+    }
+```
