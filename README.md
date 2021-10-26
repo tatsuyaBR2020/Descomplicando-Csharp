@@ -5,7 +5,7 @@
 
 [Google](https://google.com)
 
-[teste](/C#/Sintaxe/1.md)
+[teste](C#/Sintaxe/1.md)
 ```csharp
     if(playerLife > enemyLife)
     {
