@@ -8,7 +8,7 @@ Você pode importar uma biblioteca inteira assim:
 ```csharp
     using NomeDaBiblioteca;
 ```
--Lembrando dentro de uma biblioteca pode haver outra biblioteca
+- Lembrando dentro de uma biblioteca pode haver outra biblioteca
 
 mas caso você apenas queira acessar somente uma coisa da biblioteca vc pode fazer assim:
 
