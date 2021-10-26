@@ -5,7 +5,7 @@ que séra por onde o seu programa séra inicializado
 
 - dentro dele vc tera o seguinte conteudo:
 
-````csharp
+```csharp
     using System;
 
     namespace NomeDoProjeto
