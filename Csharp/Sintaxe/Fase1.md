@@ -1,7 +1,7 @@
 # Inicio dos estudos na sintaxe do c#
 
-## <h1>Bibliotecas</h1>
-para começarmos com o pé direito na liguagem vamos começar falando de como usar as <Strong>bibliotecas</Strong><br>
+## <h1>Importar <Strong>Bibliotecas</Strong></h1>
+para começarmos com o pé direito na liguagem vamos começar falando de como usar as <Strong>Bibliotecas</Strong><br>
 
 Você pode importar uma biblioteca inteira assim:
 
@@ -28,3 +28,45 @@ Você tambem pode fazer isso dentro de funcões dessa forma:
         System.Console.WriteLine("Seja bem vindo :p");
     }
 ```
+
+## <h1>Como usar os <Strong>namespaces</Strong></h1>
+
+<p>Usar namespaces te ajuda a manter o seu codigo organizado e que obrige que quem queria utilizar algo dentro 
+do namespace tenha que importar ele porque um namespace é uma biblioteca
+</p>
+
+Para usar o namespaces não tem muito segredo você so precisa colocar o que vc quer dentro do seu namespace desse jeito:
+
+```csharp
+    namespace NomeDaBiblioteca
+    {
+        public class HelloWorld
+        {
+
+        }
+    }
+```
+
+para poder usar o conteudo que ta dentro do namesapce é so importar ele igual a uma biblioteca afinal ele tambem é uma biblioteca
+
+- :warning: Lembrando que se você quer criar um caminho de bibliotecas você pode fazer assim:
+
+```csharp
+    namespace NomeDaBiblioteca.OutroNome
+    {
+        public class OutraClasse
+        {
+
+        } 
+    }
+```
+
+Dessa forma é so vc importar assim:
+
+```csharp
+    using NomeDaBiblioteca.OutroNome;
+```
+
+- e lembrando que como se fosse uma pasta ai na pasta <Strong>NomeDaBiblioteca</Strong> vai ter um conteudo ai no outro caminho <Strong>NomeDaBiblioteca.OutroNome</Strong> tera outro conteúdo
+
+- Párabens por ter dado seu primeiro passo rumo a fluência em Csharp :slap:
