@@ -19,7 +19,6 @@ mas caso você apenas queira acessar somente uma coisa da biblioteca vc pode faz
         System.Collections.Generic.List<int> lista;
     }
 ```
-- Lembrando que uma biblioteca pode conter outra biblioteca dentro dela OK
 
 Você tambem pode fazer isso dentro de funcões dessa forma:
 
