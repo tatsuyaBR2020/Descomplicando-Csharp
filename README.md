@@ -1,4 +1,4 @@
 # Criando games
 "Tudo que você não entende é por que você ainda não aprendeu" 
 
-- [] Cadastro de conta
+> Status do Projeto: Em desenvolvimento :warning:
