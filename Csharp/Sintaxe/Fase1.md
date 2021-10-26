@@ -69,4 +69,6 @@ Dessa forma é so vc importar assim:
 
 - e lembrando que como se fosse uma pasta ai na pasta <Strong>NomeDaBiblioteca</Strong> vai ter um conteudo ai no outro caminho <Strong>NomeDaBiblioteca.OutroNome</Strong> tera outro conteúdo
 
-- Párabens por ter dado seu primeiro passo rumo a fluência em Csharp :slap:
+- Párabens por ter dado seu primeiro passo rumo a fluência em Csharp
+
+[2 Fase](/Fase2.md)
