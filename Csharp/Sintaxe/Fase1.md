@@ -71,4 +71,4 @@ Dessa forma é so vc importar assim:
 
 - Párabens por ter dado seu primeiro passo rumo a fluência em Csharp
 
-[2 Fase](/Fase2.md)
+[2 Fase](/Csharp/Sintaxe/Fase2.md)
