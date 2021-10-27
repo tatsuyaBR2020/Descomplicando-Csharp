@@ -8,7 +8,7 @@ para importar uma biblioteca você so precisa colocar primeiro a propriedade usi
 ```
 - Lembrando dentro de uma biblioteca pode haver outra biblioteca como por exemplo:
 ```csharp
-    using System.Collections.Generic
+    using System.Collections.Generic;
 ```
 <p>nesse caso eu indiquei o caminho para a biblioteca <Strong>Generic</Strong></p>
 
