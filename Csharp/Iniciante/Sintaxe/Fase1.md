@@ -1,6 +1,4 @@
-# Inicio dos estudos na sintaxe do c#
-
-## <h1>Importar <Strong>Bibliotecas</Strong></h1>
+## <h1>Importar e criar <Strong>Bibliotecas</Strong></h1>
 para começarmos com o pé direito na liguagem vamos começar falando de como usar as `Bibliotecas`
 
 para importar uma biblioteca você so precisa colocar primeiro a propriedade using e sm seguida colocar o `nome` da biblioteca dessa forma:
