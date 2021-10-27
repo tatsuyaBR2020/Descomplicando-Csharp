@@ -35,7 +35,7 @@ Você tambem pode fazer isso dentro de funcões dessa forma:
 do namespace tenha que importar ele porque um namespace é uma biblioteca
 </p>
 
-Para usar o namespaces não tem muito segredo você so precisa colocar o que vc quer dentro do seu namespace desse jeito:
+Para usar o namespaces não tem muito segredo você so precisa colocar a propriedade `namespace` seguido de um nome e chaves dessa forma:
 
 ```csharp
     namespace NomeDaBiblioteca
@@ -71,4 +71,4 @@ Dessa forma é so vc importar assim:
 
 - Párabens por ter dado seu primeiro passo rumo a fluência em Csharp
 
-[2 Fase](/Csharp/Sintaxe/Fase2.md)
+[Próximo](/Csharp/Sintaxe/Fase2.md)
