@@ -21,7 +21,7 @@
     }
 ```
 
-- :warning: você não deve por ponto e virgula é somente em declaração de função ou declaração de classe o resto você tem que colocar
+- :warning: você não deve por ponto e virgula em somente em declaração de função ou declaração de classe o resto você tem que colocar
 
 ## <h1>Variaveis</h1>
 
