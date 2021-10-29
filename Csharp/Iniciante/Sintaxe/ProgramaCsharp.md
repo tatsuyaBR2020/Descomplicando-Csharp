@@ -27,4 +27,4 @@ logo em seguinda nos temos a classe <Strong>Program</Strong> elá sera a classe 
 
 agora dentro dessa void irá acontecer a "Mágica", que nada mais é onde nosso codigo será executado
 
-[3 Fase](/Csharp/Iniciante/Sintaxe/Fase3.md)
+[Proximo](/Csharp/Iniciante/Sintaxe/Bibliotecas.md)

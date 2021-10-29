@@ -68,4 +68,4 @@ para você criar um caminho de bibliotecas é so você colocar um nome seguido d
 
 - Párabens por ter dado seu primeiro passo rumo a fluência em Csharp
 
-[Próximo](/Csharp/Iniciante/Sintaxe/Fase2.md)
+[Próximo](/Csharp/Iniciante/Sintaxe/Regras.md)
