@@ -1,6 +1,6 @@
 ## <Strong>Regras da linguagem</Strong>
 
-<p>Em <Strong>Csharp</Srtong> nós temos algumas regras que devem ser seguidas se não nos não poderemos compilar o programa. Mas pó fica tranquilo que são be, simples então vamos para as regras</p>
+<p>Em <Strong>Csharp</Srtong> nós temos algumas regras que devem ser seguidas se não nos não poderemos compilar o programa. Mas pó fica tranquilo que são bem, simples então vamos para as regras</p>
 
 ## <h1>Ponto e virgula</h1>
 
