@@ -48,7 +48,7 @@ Exemplo sem valores atribuidos:
     }
 ```
 
-- :warning: lembrando que você não deve colocarum nome para variavel que seja reservados da linguagem ou colocar assentos e sempre colocar o nome todo junto, você pode "separar" as palavras colocando a primeira letra da palavra maiuscula
+- :warning: lembrando que você não deve colocar um nome para variavel que seja reservados da linguagem ou colocar assentos e sempre colocar o nome todo junto, você pode "separar" as palavras colocando a primeira letra da palavra maiuscula
 
 
 ## Orientação a objetos
