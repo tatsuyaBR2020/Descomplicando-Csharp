@@ -37,7 +37,7 @@ Exemplo declaração de variaveis com valores:
         float numeroQuebrado = 1.5f;
     }
 ```
-Eexemplo sem valores atribuidos:
+Exemplo sem valores atribuidos:
 
 ```csharp
     public class Exemplo
@@ -55,7 +55,7 @@ Eexemplo sem valores atribuidos:
 
 - :warning: calma pequeno gafanhoto nós não iremos nos aprofundar tanto nesse assunto hoje eu vou apenas te dar um "empurraozinho" no assunto
 
-<p>Bem quando você deseja criar uma variavel de alguma classe voce não pode so colocar a variavel la e pronto nos temos que </p>`instanciar`<p> o "objeto" que no caso é uma classe. para fazer isso da forma certa voce deve setar a variavel com um new seguido do nome da classe que você deseja fazer a instancia e depois colocar parênteses dentro dos parenteses nós iremos precisar colocar alguns parâmetros mas somente se o construtor da classe pedir</p><br>
+Bem quando você deseja criar uma variavel de alguma classe voce não pode so colocar a variavel la e pronto nos temos que `instanciar` o "objeto" que no caso é uma classe. para fazer isso da forma certa voce deve setar a variavel com um new seguido do nome da classe que você deseja fazer a instancia e depois colocar parênteses dentro dos parenteses nós iremos precisar colocar alguns parâmetros mas somente se o construtor da classe pedir<br>
 
 Exemplos:
 ```csharp
