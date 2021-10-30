@@ -155,4 +155,8 @@ Escopo de uma variavel é basicamente a acessibilidade dela na classe dela por e
     }
 ```
 
-<p>Nesse caso aqui eu acessei o valor da varivel da função pedindo um parametro para poder executar a função, mas dessa forma a variavel não sera salva depois que a função acabar então pra isso você poderia salvar ele em uma variavel de escopo global como nós fizemos no exemplo 1</p>
+<p>Nesse caso aqui eu acessei o valor da varivel da função pedindo um parametro para poder executar a função, mas dessa forma a variavel não sera salva depois que a função acabar então pra isso você poderia salvar ele em uma variavel de escopo global como nós fizemos no exemplo 1</p
+
+<h1>Finalizado por enquanto</h1>
+
+[]
