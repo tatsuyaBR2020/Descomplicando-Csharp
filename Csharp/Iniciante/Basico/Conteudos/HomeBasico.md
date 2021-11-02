@@ -7,5 +7,5 @@
 
 # Contúdos: <br>
 
-[Variaveis](/Csharp/Iniciante/Basico/Variaveis.md)
-[funções](/Csharp/Iniciante/Basico/funcoes.md)
+[Variaveis](/Csharp/Iniciante/Basico/Conteudos/Variaveis.md)
+[funções](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)

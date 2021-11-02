@@ -29,4 +29,4 @@ em Csharp os tipos primitivos mais utilizados são: <br> `int`, `float`,`string`
 
 - váriaveis `string` não tem um limite definido ela é limitada pela quantidade de mémoria alocada no computador
 
-[Proximo](/Csharp/Iniciante/Basico/funcoes.md)
+[Proximo](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)

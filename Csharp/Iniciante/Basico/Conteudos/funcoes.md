@@ -1,6 +1,6 @@
 ## Funções
 
-<p>Uma função é basicamente um bloco de codigo que pode ser chamado a qualquer momento</p>
+<p>Uma função é basicamente um bloco de codigo que pode ser chamado a qualquer momento, isso ajuda a manter o codigo organizado e poupar tempo já que vcocê não tera que reescrever aquele codigo</p>
 
 ## Declarar função
 Para declarar uma função você tem que primiero dizer o tipo seguido de um nome depois do nome você irá abrir e fechar parenteses dentro deles nos iremos colocar o que na programação nós chamamos de `parametros` se você não quiser pedir nenhum parametro é so deixar em branco depois disso tudo você vai abrir e fechar chaves({} <= dessa forma)
@@ -127,7 +127,7 @@ exemplo:
 Exemplo:
 
 ```csharp
-    public class Exemplo
+    public class EscreverNome
     {
         void PegarNome()
         {
@@ -144,3 +144,5 @@ Exemplo:
 ```
 
 <p>Para guardar o valor do retorno da função é so você setar ela a uma variavel como nos fizemos no exemplo a acima</p>
+
+[Proximo](Csharp/Iniciante/Basico/Conteudos/somas.md)
