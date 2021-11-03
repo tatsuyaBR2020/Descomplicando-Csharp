@@ -77,6 +77,80 @@ Exemplo com numeros:
 ```csharp
     void Diminuir()
     {
-
+        int result = 1 - 1;
+        Console.WriteLine(result);
     }
 ```
+
+Exemplo com variaveis:
+
+```csharp
+    void Diminuir(int num1, int num2)
+    {
+        int result = num1 - num2;
+        Console.WriteLine(result);
+    }
+```
+
+- Caso você queria diminuir o proprio numero da variavel, é so fazer o seguinte:
+
+Forma 1:
+
+```csharp
+    void Diminuir(int num1, int num2)
+    {
+        int result = num1 - num2;
+        result -= 1;//<- aqui ele ta pegando o valor que ta dentro da variavel result e diminuindo 1
+    }
+```
+
+Forma 2:
+
+```csharp
+    void Diminuir(int num1, int num2)
+    {
+        int result = num1 - num2;
+        result = result - 1;//<- aqui ele ta pegando o valor que ta dentro da variavel result e diminuindo 1
+    }
+```
+
+# Multiplicação
+
+- Multiplicação: para você multiplicar é so você colocar o sinal de `*` entre os números
+
+<p>ele funciona igual a subtração e diminuição é o mesmo método blz</p>
+
+# Divisão
+
+- Divisão: para você dividir um numero por outro é so você usar o sinal de `/` entre os números
+
+<p>ele funciona igual a subtração e diminuição é o mesmo método blz</p>
+
+# Resto da divisão
+
+- Para você calcular o resto da divisão basta utilizar o sinal de porcentagem(`%`)
+
+Ahh mas para que eu irei utilizar isso
+
+ahh meu pequeno gafanhoto mas fazer nosso primeiro exemplo pratico, digamos que você quer saber se um número é par ou impar você checara o resto da divisão do numero que você quer checar por 2, ai se ele for zero ele é par se ele for 1 é impar
+
+Exemplo:
+
+```csharp
+    void EPar(int numero)
+    {
+        int restoDaDivisao = numero % 2;
+
+        if(restoDaDivisão == 0)
+        {
+            Console.WriteLine("é par");
+        }else
+        {
+            Console.WriteLine("é impar");
+        }
+    }
+```
+
+- :warning: olha não se preocupe com esse if e else você ira aprender a como utilizar esses carinhas logo em breve mas, por equanto apenas entenda que um if é uma condição se ela não for atendida ele vai cair no else
+
+[Proximo Conteúdo](/Csharp/Iniciante/Basico/Conteudos/condicoes.md)
