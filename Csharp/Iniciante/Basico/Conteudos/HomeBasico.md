@@ -8,4 +8,5 @@
 # Contúdos: <br>
 
 [Variaveis](/Csharp/Iniciante/Basico/Conteudos/Variaveis.md)
+[Operações](/Csharp/Iniciante/Basico/Conteudos/somas.md)
 [funções](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)
