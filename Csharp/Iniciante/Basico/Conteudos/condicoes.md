@@ -19,7 +19,7 @@
 
 - a sigla `else` em C# ela significa basicamente se não, se uma condição não for atendida ela entrara no else
 
-- a sigla `else if` em c# ela significa que se essa condição 
+- a sigla `else if` em c# ela significa que se essa condição não for verdadeira mais essa for, execute isso aqui
 Exemplo:
 
 ```csharp
@@ -28,9 +28,11 @@ Exemplo:
         if(temChave == true)// esta checando se a variavel "temChave" é igual a "true"(verdadeiro)
         {
             Console.WriteLine("Você abriu a porta!!");
-        }else//se a variavel "temChave" não for igual a true nesse caso se ela for falsa ela vai executar esse outro boloco de codigo
+        }else//se a variavel "temChave" não for igual a true nesse caso se ela for falsa ele vai executar esse outro boloco de codigo
         {
             Console.WriteLine("Você não tem a chave vassilão");
         }
     }
 ```
+
+[Aula sobre loops](/Csharp/Iniciante/Basico/Conteudos/loops.md)

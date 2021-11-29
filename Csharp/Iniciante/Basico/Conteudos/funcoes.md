@@ -24,6 +24,8 @@ Para declarar uma função você tem que primiero dizer o tipo seguido de um nom
     }
 ```
 
+- :warning: Uma função pode ser declarada dentro de outra função mas essa função sera apenas local e so podera ser chamada dentro daquela mesma função que ela foi declarada por que o escopo dela não é global 
+
 # Executar funções
 
 <p>Para executar uma função você precisa apenas colocar o nome da função que você quer executar seguido de parenteses</p>
@@ -145,4 +147,4 @@ Exemplo:
 
 <p>Para guardar o valor do retorno da função é so você setar ela a uma variavel como nos fizemos no exemplo a acima</p>
 
-[Proximo](Csharp/Iniciante/Basico/Conteudos/somas.md)
+[Proximo](/Csharp/Iniciante/Basico/Conteudos/loops.md)

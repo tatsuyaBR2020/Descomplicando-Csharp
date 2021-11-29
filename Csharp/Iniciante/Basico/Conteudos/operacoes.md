@@ -153,4 +153,4 @@ Exemplo:
 
 - :warning: olha não se preocupe com esse if e else você ira aprender a como utilizar esses carinhas logo em breve mas, por equanto apenas entenda que um if é uma condição se ela não for atendida ele vai cair no else
 
-[Proximo Conteúdo](/Csharp/Iniciante/Basico/Conteudos/condicoes.md)
+[Proximo Conteúdo](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)

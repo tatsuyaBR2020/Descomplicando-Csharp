@@ -9,4 +9,6 @@
 
 [Variaveis](/Csharp/Iniciante/Basico/Conteudos/Variaveis.md)
 [Operações](/Csharp/Iniciante/Basico/Conteudos/somas.md)
-[funções](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)
+[Funções](/Csharp/Iniciante/Basico/Conteudos/funcoes.md)
+[Loops](/Csharp/Iniciante/Basico/Conteudos/loops.md)
+[Classes](/Csharp/Iniciante/Basico/Conteudos/classes.md)
